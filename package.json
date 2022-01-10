@@ -4,8 +4,10 @@
   "description": "\"Browser based game\"",
   "main": "index.js",
   "scripts": {
+    
     "build": "babel src -d dist"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AlexKranov/defender-game.git"
@@ -22,7 +24,10 @@
   "devDependencies": {
     "@babel/cli": "^7.16.7",
     "@babel/core": "^7.16.7",
-    "@babel/preset-env": "^7.16.7"
+    "@babel/preset-env": "^7.16.7",
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
   },
   "dependencies": {
     "core-js": "^3.20.2"

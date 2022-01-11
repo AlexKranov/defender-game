@@ -1,4 +1,4 @@
-/*{
+{
     "env": {
         "browser": true,
         "es2021": true
@@ -12,9 +12,9 @@
     },
     "rules": {
     }
-}*/
+}
 
-//Задание со стрелочкой
+/*Задание со стрелочкой
 {
     "extends": "airbnb-base",
     "env": {
@@ -27,5 +27,6 @@
             "LabeledStatement",
             "WithStatement"
         ]
-   }
 }
+}
+*/

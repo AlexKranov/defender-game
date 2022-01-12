@@ -5,8 +5,9 @@
         "browser": true
     },
     "rules": {
-        "no-multiple-empty-lines": "warn",
+        "linebreak-style": 4,
         "no-restricted-syntax": [
+            "error",
             "LabeledStatement",
             "WithStatement"
         ]

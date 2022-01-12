@@ -13,6 +13,5 @@
             "LabeledStatement",
             "WithStatement"
         ]
-        "indent": [2, 2],
     }
 }

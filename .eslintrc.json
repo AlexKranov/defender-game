@@ -4,12 +4,13 @@
         "es6": true,
         "browser": true
     },
+    
     "rules": {
-        "linebreak-style": 4,
         "no-restricted-syntax": [
             "error",
             "LabeledStatement",
             "WithStatement"
         ]
+        "indent": [2, 2],
     }
 }
